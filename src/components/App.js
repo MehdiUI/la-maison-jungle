@@ -1,6 +1,7 @@
 import Banner from './banner'
 import Cart  from './cart'
 import ShoppingList from './shoppingList';
+import CareScale from './CareScale';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Banner />
       <Cart />
       <ShoppingList/>
+      <CareScale/>
     </div>
   );
 }

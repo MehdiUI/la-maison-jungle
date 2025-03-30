@@ -44,5 +44,6 @@ export const plantList = [
 		name: 'succulente',
 		category: 'plante grasse',
 		id: '9vn'
+		
 	}
 ]
